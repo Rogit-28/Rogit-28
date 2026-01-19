@@ -1,4 +1,4 @@
-# Hey, I'm Rogit
+# Hey, I'm Rogit 😀
 
 **Software Engineer | Backend | AI/ML & Data**
 
